@@ -25,7 +25,7 @@ SECRET_KEY = 'il#)k#-8%0=pl&i81o+ujkgqly#*!@=su)8hbwdml0gofbmw_q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hello-web-ten.vercel.app']
 
 
 # Application definition
