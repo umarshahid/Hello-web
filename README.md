@@ -1,4 +1,8 @@
 # Hello Web is a Django based Web App
+
 Deployed on PythonAnyWhere.com
 
-[Can be checked here (click)](http://umarshahid.pythonanywhere.com)
+:red_circle:(completed partially)
+
+Click:point_down:
+[Can be viewed here](http://umarshahid.pythonanywhere.com)
